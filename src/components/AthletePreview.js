@@ -2,6 +2,7 @@
 
 import React from 'react';
 import { Link } from 'react-router';
+import { Badge } from 'react-materialize';
 
 export default class AthletePreview extends React.Component {
   render() {
@@ -10,6 +11,7 @@ export default class AthletePreview extends React.Component {
         <div className="athlete-preview">
           <img src={`img/${this.props.image}`}/>
           <h2 className="name">{this.props.name}</h2>
+          <Badge newIcon>{this.props.medals.length}</Badge>
           <span className="medals-count"><img src="/img/medal.png"/> {this.props.medals.length}</span>
         </div>
       </Link>
