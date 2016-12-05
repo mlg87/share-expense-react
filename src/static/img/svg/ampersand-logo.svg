@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="400" height="400" viewBox="300 0 400 400">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 437.5px;
+      }
+
+      .cls-2 {
+        text-anchor: middle;
+        font-family: "HelveticaNeue-Light";
+      }
+    </style>
+  </defs>
+  <text x="489" y="353" class="cls-1"><tspan x="489" class="cls-2">&amp;</tspan></text>
+</svg>
