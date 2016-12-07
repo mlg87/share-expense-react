@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="1000" height="400" viewBox="0 0 1000 400">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 266.667px;
+      }
+
+      .cls-2 {
+        text-anchor: middle;
+        font-family: "Kohinoor Devanagari";
+      }
+    </style>
+  </defs>
+  <text x="507" y="300" class="cls-1"><tspan x="507" class="cls-2">shared</tspan></text>
+</svg>
